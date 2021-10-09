@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gisellevazquez
-- 👀 I’m interested in UX/UI, Web development, Gaming, and 3d Modelling
-- 🌱 I’m an UX/UI Designer
-- ✨ I’m currently learning Web Development on Coderhouse 
+- 👀 I’m interested in UX/UI, Web development, Gaming stuff
+- 🌱 I’m an UX Researcher & UI Developer
+- ✨ Currently: Learning Narrative Design
 - 📫 My web: https://gvazquez.space
 
 <!---
