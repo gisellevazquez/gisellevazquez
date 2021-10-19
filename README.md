@@ -13,7 +13,10 @@ You can click the Preview link to take a look at your changes.
     Statistics...
 </summary>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bioskop">
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bioskop">
+</div>
 <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"></a>
