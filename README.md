@@ -12,8 +12,10 @@ You can click the Preview link to take a look at your changes.
 <summary>
     Statistics...
 </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Bioskop&count_private=true&theme=nightowl">
 
-<br>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bioskop">
-
+<br>
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bioskop&count_private=true&theme=nightowl">
+</div> 
