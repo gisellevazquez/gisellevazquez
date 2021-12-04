@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gisellevazquez
 - 👀 I’m interested in UX/UI, Web development, Gaming stuff
 - 🌱 I’m an UX Researcher & UI Developer
-- ✨ Currently: Learning Narrative Design
+- ✨ Currently: Learning Narrative Design & Data Science //AI// 
 - 📫 My web: https://gvazquez.space
 
 <!---
