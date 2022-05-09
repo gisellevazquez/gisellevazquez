@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gisellevazquez
-- 👀 I’m interested in UX/UI, Web development, Gaming stuff
 - 🌱 I’m an UX - UI Developer
-- ✨ Currently: Learning Narrative Design & Data Science //AI//
+- 🛠️ I work as a *Core UI designer* for Casa de Moneda Argentina (Mint)
+- 🦉 Currently: Learning Narrative Design & Data Science //AI//
 
 <!---
 gisellevazquez/gisellevazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
