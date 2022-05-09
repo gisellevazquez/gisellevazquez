@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gisellevazquez
-- 🌱 I’m an UX - UI Developer
+- 🌱 I’m a UX - UI Developer
 - 🛠️ I work as a *Core UI designer* for Casa de Moneda Argentina (Mint)
 - 🦉 Currently: Learning Narrative Design & Data Science //AI//
 
