@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gisellevazquez
 - 🌱 I’m a UX - UI Developer
-- 🛠️ I work on Casa de Moneda Argentina (Mint)
 - 🦉 Currently: Learning Unity
 
 <!---
